@@ -1,6 +1,7 @@
 # Images' web-scraping-using-Selenium-Python
 
 Data mining or gathering data is a very primitive step in the data science life cycle. As per business requirements, one may have to gather data from sources like SAP servers, logs, Databases, APIs, online repositories, or web.
+
 ![Images' web-scrapping ](https://github.com/Praveen76/Web-Scraping-using-Selenium-Python/blob/master/ImagesWebscrapping.jpg)
 
 Tools for web scraping like Selenium can scrape a large volume of data such as text and images in a relatively short time.
