@@ -1,6 +1,7 @@
 # Images' web-scraping-using-Selenium-Python
 
 Data mining or gathering data is a very primitive step in the data science life cycle. As per business requirements, one may have to gather data from sources like SAP servers, logs, Databases, APIs, online repositories, or web.
+![Images' web-scrapping ](https://github.com/Praveen76/Web-Scraping-using-Selenium-Python/blob/master/ImagesWebscrapping.jpg)
 
 Tools for web scraping like Selenium can scrape a large volume of data such as text and images in a relatively short time.
 
@@ -17,7 +18,9 @@ Tools for web scraping like Selenium can scrape a large volume of data such as t
  * requests: 2.22.0
  * webdriver_manager: 3.8.5
 
+The code has been tested on Windows system. It should work well on other distributions but has not yet been tested.
 
+In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 
 # **Steps involved:**
 
@@ -44,3 +47,6 @@ I've published a comprehensive article on Image Web Scraping using Selenium with
  * Headless Chrome browser
  * Putting it altogether
  * End Notes
+
+# **About Me:**
+I’ve been working as a Data Scientist for a very long time now. I've worked on various NLP, Machine learning & cutting edge deep learning frameworks to solve business problems. Please feel free to check out my personal wesbsite [TowardsMachineLearning.Org](https://towardsmachinelearning.org/) , where I cover an array of topics from Machine learning, NLP, Deep Learning, etc.
