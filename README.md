@@ -6,20 +6,20 @@ Data mining or gathering data is a very primitive step in the data science life 
 
 Tools for web scraping like Selenium can scrape a large volume of data such as text and images in a relatively short time.
 
-# **Directory Structure**
+## **Directory Structure**
 * **Dataset1 :** All images
 * **Dataset2 :** Images for Car, and horses class. You can scrape images for classes of your choice. Go through the code to get more details.
 * **Image Web-Scraping_Part1.ipynb:** Python notebook for image webscrapping.
 * **Image Web-Scraping_Part2.ipynb:** It's almost the same code like one in Image Web-Scraping_Part1.ipynb notebook, but I've put the code in seperate functions to make it more modular and readable.
 
-# **Instructions for Installation:**
+## **Instructions for Installation:**
 **Dependencies:**
  * selenium: 4.8.2
  * PIL: 7.0.0
  * requests: 2.22.0
  * webdriver_manager: 3.8.5
 
-# **Steps involved:**
+## **Steps involved:**
 
 * Step 1 – Import all required libraries
 * Step 2 – Install Chrome Driver
@@ -31,10 +31,10 @@ Tools for web scraping like Selenium can scrape a large volume of data such as t
 
 
 
-# **Article published on Analytics Vidhya:** 
+## **Article published on Analytics Vidhya:** 
 I've published a comprehensive article on Image Web Scraping using Selenium with Python. You can refer this [link](https://www.analyticsvidhya.com/blog/2020/08/web-scraping-selenium-with-python/) to get more details.
 
-# **Important learnings from the article:**
+## **Important learnings from the article:**
  * What is Web Scraping
  * Why Web Scraping
  * How Web Scraping is useful
@@ -45,14 +45,15 @@ I've published a comprehensive article on Image Web Scraping using Selenium with
  * Putting it altogether
  * End Notes
 
-# License:
+## License:
 This project is open-source and distributed under the MIT License. Feel free to use and modify the code as needed.
 
-# Issues:
+## Issues:
 If you encounter any issues or have suggestions for improvement, please open an issue in the Issues section of this repository.
 
-# Contact:
+## Contact:
 The code has been tested on Windows system. It should work well on other distributions but has not yet been tested. In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 
-# **About Me:**
-I’ve been working as a Data Scientist for a very long time now. I've worked on various NLP, Machine learning & cutting edge deep learning frameworks to solve business problems. Please feel free to check out my personal wesbsite [TowardsMachineLearning.Org](https://towardsmachinelearning.org/) , where I cover an array of topics from Machine learning, NLP, Deep Learning, etc.
+
+## **About Me**:
+I’m a seasoned Data Scientist and founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/). I've worked on various Machine Learning, NLP, and cutting-edge deep learning frameworks to solve numerous business problems.
